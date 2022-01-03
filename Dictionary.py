@@ -28,7 +28,7 @@ print(dictionary)
 dictionary.pop(1)
 print(dictionary)
 
-'''dictionary.pop(1,2)
+dictionary.pop(1,2)
 print(dictionary)
 
 dictionary.popitem()
@@ -38,7 +38,7 @@ del dictionary[2]
 print(dictionary)
 
 dictionary.clear()
-print(dictionary)'''
+print(dictionary)
 
 for element in dictionary:
     print(element)
